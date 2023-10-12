@@ -13,7 +13,7 @@
 
 .nav_top {
     vertical-align: middle;
-    margin-inline: 357px;
+    margin-inline: 348px;
 }
 
 .logo_top {
@@ -22,7 +22,7 @@
 
 .li_top {
     color: #FFF;
-    font-family: Nerko One;
+    font-family: 'Nerko One', cursive;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -40,7 +40,7 @@
     justify-content: center;
     align-items: center;
     color: #2A9D8F;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 600;
@@ -51,15 +51,13 @@
 
 .article_top {
     width: 780px;
-    margin-top: 200px;
-    margin-bottom: 200px;
     margin: 200px auto;
 }
 
 .article_top_title {
     color: #4D4D4D;
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 500;
@@ -70,7 +68,7 @@
 .article_top_paragraph {
     color: #656565;
     text-align: justify;
-    font-family: Nerko One;
+    font-family: 'Nerko One', cursive;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -104,7 +102,7 @@
 
 .article_two_title {
     color: #272727;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 32px;
     font-style: normal;
     font-weight: 500;
@@ -114,7 +112,7 @@
 
 .article_two_paragraph {
     color: #515151;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-style: italic;
     font-weight: 400;
@@ -134,7 +132,7 @@
     align-items: center;
     background: #2A9D8F;
     color: #FFF;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -151,7 +149,7 @@
     text-align: center;
     margin-bottom: 54px;
     color: #4D4D4D;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 500;
@@ -171,7 +169,7 @@ figure {
 figcaption {
     margin-top: 32px;
     color: #535353;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -187,38 +185,33 @@ footer {
 }
 
 .logo_bottom {
-    vertical-align: top;
-    margin-right: 634px;
+    vertical-align: middle;
+    margin-right: 621px;
 }
 
 .nav_category {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
 }
 
 .nav_category_title {
     margin-bottom: 21px;
     color: #FFF;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
     line-height: 30px;
-    /* 150% */
-    letter-spacing: 0.1px;
-    vertical-align: top;
-}
+    letter-spacing: 0.1px;}
 
 .category_text {
     color: #FFF;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
     line-height: 27px;
-    /* 150% */
     letter-spacing: 0.09px;
-    vertical-align: top;
 }
 
 .middle_category {
