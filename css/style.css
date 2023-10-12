@@ -59,14 +59,11 @@
 .article_top_title {
     color: #4D4D4D;
     text-align: center;
-
-    /* Heading 1/medium */
     font-family: Poppins;
     font-size: 48px;
     font-style: normal;
     font-weight: 500;
     line-height: 130%;
-    /* 62.4px */
     letter-spacing: 0.24px;
 }
 
@@ -78,7 +75,6 @@
     font-style: normal;
     font-weight: 400;
     line-height: 150%;
-    /* 30px */
     letter-spacing: 0.1px;
 }
 
@@ -113,7 +109,6 @@
     font-style: normal;
     font-weight: 500;
     line-height: 48px;
-    /* 150% */
     letter-spacing: 0.16px;
 }
 
@@ -124,7 +119,6 @@
     font-style: italic;
     font-weight: 400;
     line-height: 27px;
-    /* 150% */
     letter-spacing: 0.09px;
 }
 
@@ -145,5 +139,42 @@
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
-    /* 150% */
+}
+
+.section_two {
+    width: 1440px;
+    margin: auto;
+    padding: 200px 130px;
+}
+
+.section_two_title {
+    text-align: center;
+    margin-bottom: 54px;
+    color: #4D4D4D;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+    letter-spacing: 0.24px;
+}
+
+figure {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.image_one {
+    margin-right: 16px;
+}
+
+figcaption {
+    margin-top: 32px;
+    color: #535353;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.12px;
 }
