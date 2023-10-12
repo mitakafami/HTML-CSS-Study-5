@@ -1,9 +1,13 @@
+                                                                                   /* HEADER START */
 .header_top {
     width: 1440px;
     margin: auto;
     padding: 38px 130px;
     background-color: #2A9D8F;
     ;
+}
+.logo_top {
+    vertical-align: middle;
 }
 
 .nav_top,
@@ -14,10 +18,6 @@
 .nav_top {
     vertical-align: middle;
     margin-inline: 348px;
-}
-
-.logo_top {
-    vertical-align: middle;
 }
 
 .li_top {
@@ -49,6 +49,7 @@
     vertical-align: middle;
 }
 
+                                                                                   /* ARTICLE START */
 .article_top {
     width: 780px;
     margin: 200px auto;
@@ -81,6 +82,7 @@
     margin-bottom: 52px;
 }
 
+                                                                                   /* SECTION ONE START */
 .section_one {
     width: 1440px;
     margin: auto;
@@ -130,15 +132,17 @@
     padding: 11px 16px;
     justify-content: center;
     align-items: center;
-    background: #2A9D8F;
+    background-color: #2A9D8F;
     color: #FFF;
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
+    border-style: none;
 }
 
+                                                                                   /* SECTION TWO START */
 .section_two {
     width: 1440px;
     margin: auto;
@@ -177,6 +181,7 @@ figcaption {
     letter-spacing: 0.12px;
 }
 
+                                                                                   /* FOOTER */
 footer {
     width: 1440px;
     margin: auto;
@@ -212,8 +217,13 @@ footer {
     font-weight: 400;
     line-height: 27px;
     letter-spacing: 0.09px;
+    vertical-align: middle;
 }
 
 .middle_category {
-    margin-inline: 42px;
+    margin-inline: 41px;
+}
+.middle_text {
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
