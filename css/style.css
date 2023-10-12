@@ -178,3 +178,49 @@ figcaption {
     line-height: 36px;
     letter-spacing: 0.12px;
 }
+
+footer {
+    width: 1440px;
+    margin: auto;
+    padding: 90px 130px 148px 130px;
+    background-color: #2A9D8F;
+}
+
+.logo_bottom {
+    vertical-align: top;
+    margin-right: 634px;
+}
+
+.nav_category {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nav_category_title {
+    margin-bottom: 21px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    /* 150% */
+    letter-spacing: 0.1px;
+    vertical-align: top;
+}
+
+.category_text {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    /* 150% */
+    letter-spacing: 0.09px;
+    vertical-align: top;
+}
+
+.middle_category {
+    margin-inline: 42px;
+}
