@@ -17,10 +17,10 @@
 
 .nav_top {
     vertical-align: middle;
-    margin-inline: 348px;
+    margin-inline: 346px;
 }
 
-.li_top {
+.text_top {
     color: #FFF;
     font-family: 'Nerko One', cursive;
     font-size: 20px;
@@ -29,16 +29,14 @@
     line-height: 30px;
     letter-spacing: 0.1px;
 }
+.text_top {}
 
 .middle_top {
     margin-inline: 50px;
 }
 
 .button_top {
-    display: inline-flex;
     padding: 8px 16px;
-    justify-content: center;
-    align-items: center;
     color: #2A9D8F;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
@@ -47,6 +45,7 @@
     line-height: 30px;
     letter-spacing: 0.1px;
     vertical-align: middle;
+    border: none;
 }
 
                                                                                    /* ARTICLE START */
@@ -91,9 +90,8 @@
 }
 
 .tree_img {
-    display: inline-block;
     vertical-align: top;
-    margin-right: 119px;
+    margin-right: 117px;
 }
 
 .article_two {
@@ -128,10 +126,7 @@
 }
 
 .article_two_button {
-    display: inline-flex;
     padding: 11px 16px;
-    justify-content: center;
-    align-items: center;
     background-color: #2A9D8F;
     color: #FFF;
     font-family: 'Poppins', sans-serif;
@@ -139,13 +134,13 @@
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
+    border: none;
 }
 
                                                                                    /* SECTION TWO START */
 .section_two {
-    width: 1440px;
-    margin: auto;
-    padding: 200px 130px;
+    width: 1180px;
+    margin: 200px auto;
 }
 
 .section_two_title {
@@ -166,7 +161,7 @@ figure {
 }
 
 .image_one {
-    margin-right: 16px;
+    margin-right: 14px;
 }
 
 figcaption {
